@@ -42,6 +42,10 @@ a {
   text-align: center;
 }
 
+#header-content {
+  margin-left: 25px;
+}
+
 .localisation {
   display: flex;
   margin-bottom: 30px;
@@ -97,6 +101,7 @@ a {
 #filtres {
   display: flex;
   flex-wrap: wrap;
+  margin-left: 25px;
 }
 
 .filtre {
